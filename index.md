@@ -6,7 +6,7 @@
 
 ### 소개
 
-<img src="11.png" width=200px />
+<img src="03.png" width=200px />
 
 공유기를 이용한 LAN 네트워크 환경에서, 다수의 (스)맛폰의 연동된 피아노 건반을 제공하는 앱.
 
@@ -51,7 +51,6 @@ Mobmuplat + Pure data + LANdini 를 이용하는 환경에서 개발됨 / 스마
 
 ### 설치 단계 (2) - 따라하기, 그림만, @.@!
 
-<img src="03.png" width=200px />
 <img src="04.png" width=200px />
 <img src="05.png" width=200px />
 <img src="06.png" width=200px />
